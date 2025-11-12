@@ -1,0 +1,22 @@
+{
+    "imagenes": [
+        {
+            "filename": "Captura_de_pantalla_2025-10-10_130455.png",
+            "path": "static\\imagenes\\Captura_de_pantalla_2025-10-10_130455.png"
+        },
+        {
+            "filename": "Captura_de_pantalla_2025-10-10_130455.png",
+            "path": "static\\imagenes\\Captura_de_pantalla_2025-10-10_130455.png"
+        },
+        {
+            "filename": "Karlita5454.jpg",
+            "path": "static\\imagenes\\Karlita5454.jpg"
+        }
+    ],
+    "videos": [
+        {
+            "filename": "Video_2025-11-10_a_las_15.10.30_78393ff2.mp4",
+            "path": "static\\videos\\Video_2025-11-10_a_las_15.10.30_78393ff2.mp4"
+        }
+    ]
+}

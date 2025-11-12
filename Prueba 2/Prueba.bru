@@ -1,0 +1,20 @@
+meta {
+  name: Prueba
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://127.0.0.1:5000/upload
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  file: @file(C:\Users\ingeo\OneDrive\Pictures\Screenshots\Captura de pantalla 2025-11-09 183740.png) @contentType(png)
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
